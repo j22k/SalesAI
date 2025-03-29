@@ -1,0 +1,11 @@
+flask
+flask-cors
+SpeechRecognition
+pydub
+gtts
+pyaudio  # May require additional system dependencies
+
+# System dependencies for Windows
+# 1. Install Microsoft Visual C++ Build Tools
+# 2. Install PyAudio wheel matching your Python version
+# Example: pip install https://download.lfd.uci.edu/pythonlibs/archive/PyAudio-0.2.11-cp312-cp312-win_amd64.whl
